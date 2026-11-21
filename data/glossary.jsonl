@@ -1,0 +1,6 @@
+{"release": "main", "usage": "筛选工具栏", "source": "Clear", "preferred": "清除筛选", "permit_fallback": ["approved-same-context", "source"]}
+{"release": "1.8", "usage": "筛选工具栏", "source": "Clear", "preferred": "清除筛选", "permit_fallback": ["approved-same-context", "source"]}
+{"release": "main", "usage": "最近记录", "source": "Clear", "preferred": "清空记录", "permit_fallback": ["approved-same-context"]}
+{"release": "1.8", "usage": "最近记录", "source": "Clear", "preferred": "清空记录", "permit_fallback": ["approved-same-context"]}
+{"release": "main", "usage": "同步状态", "source": "item", "preferred": "项", "permit_fallback": ["approved-same-context", "source"]}
+{"release": "1.8", "usage": "同步状态", "source": "item", "preferred": "个项目", "permit_fallback": ["approved-same-context", "source"]}

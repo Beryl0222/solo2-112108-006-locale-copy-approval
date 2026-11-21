@@ -1,0 +1,7 @@
+{"id": "t1", "release": "main", "key": "search.clear", "locale": "zh-Hans", "source_hint": "Clear", "message": "清除筛选", "meaning": "approved", "display": "approved"}
+{"id": "t2", "release": "main", "key": "history.clear", "locale": "zh-Hans", "source_hint": "Clear", "message": "清空记录", "meaning": "approved", "display": "approved"}
+{"id": "t3", "release": "main", "key": "sync.remaining", "locale": "zh-Hans", "source_hint": "files,size", "message": "{files, plural, other {还有 # 项（{size} MB）}}", "meaning": "approved", "display": "approved"}
+{"id": "t4", "release": "1.8", "key": "sync.remaining", "locale": "zh-Hans", "source_hint": "count,secs", "message": "{count, plural, other {还有 # 个项目}}", "meaning": "pending", "display": "pending"}
+{"id": "t5", "release": "main", "key": "search.status", "locale": "zh-Hans", "source_hint": "state,name", "message": "{state, select, saved {已选} other {无筛选}}", "meaning": "pending", "display": "pending"}
+{"id": "t6", "release": "main", "key": "search.chord", "locale": "zh-Hans", "source_hint": "hotkey", "message": "重置", "meaning": "pending", "display": "pending"}
+{"id": "t7", "release": "1.8", "key": "sync.remaining", "locale": "zh-Hans", "source_hint": "count,secs", "message": "{count, plural, other {剩余 # 个项目（{secs} 秒）}}", "meaning": "approved", "display": "approved"}

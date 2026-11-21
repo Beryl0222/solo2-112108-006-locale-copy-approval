@@ -1,0 +1,43 @@
+{
+  "catalogue": [
+    "release",
+    "key",
+    "locale",
+    "usage",
+    "around",
+    "source",
+    "required"
+  ],
+  "glossary": [
+    "release",
+    "usage",
+    "source",
+    "preferred",
+    "permit_fallback"
+  ],
+  "submissions": [
+    "id",
+    "release",
+    "key",
+    "locale",
+    "source_hint",
+    "message",
+    "meaning",
+    "display"
+  ],
+  "changes": [
+    "id",
+    "release",
+    "key",
+    "previous",
+    "revision",
+    "field",
+    "before",
+    "after"
+  ],
+  "icu_subset": [
+    "kind",
+    "profile",
+    "contract"
+  ]
+}

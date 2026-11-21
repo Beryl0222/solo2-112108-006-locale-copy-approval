@@ -1,0 +1,5 @@
+{"kind": "plain", "profile": "all", "contract": "花括号变量按命名参数替换。"}
+{"kind": "select", "profile": "all", "contract": "以字符串为选择值。缺少匹配分支时取 other。"}
+{"kind": "plural", "profile": "en", "contract": "接受 one、other 和形如 =0 的精确选项。# 是当前复数数值。"}
+{"kind": "plural", "profile": "zh-Hans", "contract": "中文可使用 other 及精确选项。经目标语言合并而实际可达的语义仍应保留。"}
+{"kind": "package", "profile": "all", "contract": "客户端语言包是键到字符串的 UTF-8 JSON 对象。目录元数据和核准说明独立保存。"}

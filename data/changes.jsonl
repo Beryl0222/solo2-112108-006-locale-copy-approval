@@ -1,0 +1,3 @@
+{"id": "c1", "release": "1.8", "key": "sync.remaining", "previous": "r3", "revision": "r4", "field": "placeholder", "before": "secs", "after": "wait"}
+{"id": "c2", "release": "main", "key": "search.clear", "previous": "r5", "revision": "r6", "field": "usage", "before": "结果页/筛选工具栏", "after": "隐私/最近记录"}
+{"id": "c3", "release": "main", "key": "search.status", "previous": "r6", "revision": "r7", "field": "sentence", "before": "两条旧键 search.active 与 search.empty", "after": "使用一个 select"}

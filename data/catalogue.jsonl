@@ -1,0 +1,8 @@
+{"release": "main", "key": "search.clear", "locale": "en", "usage": "结果页/筛选工具栏", "around": "Filter by month | Reset search", "source": "Clear", "required": {}}
+{"release": "main", "key": "history.clear", "locale": "en", "usage": "隐私/最近记录", "around": "Remove recent searches permanently", "source": "Clear", "required": {}}
+{"release": "1.8", "key": "nav.reset", "locale": "en", "usage": "结果页/筛选工具栏", "around": "Filter by month | All categories", "source": "Clear", "required": {}}
+{"release": "1.8", "key": "history.reset", "locale": "en", "usage": "隐私/最近记录", "around": "Remove recent searches permanently", "source": "Clear", "required": {}}
+{"release": "main", "key": "sync.remaining", "locale": "en", "usage": "同步状态/队列", "around": "Queue state and file size", "source": "{files, plural, one {One item ({size} MB)} other {# items ({size} MB)}}", "required": "one: files作为分支选择参数，原文用单数表达数量，size为容量数值。other: files为可见条目数，size为容量数值。"}
+{"release": "1.8", "key": "sync.remaining", "locale": "en", "usage": "同步状态/队列", "around": "Queue state and elapsed wait", "source": "{count, plural, one {One item ({secs} s)} other {# items ({secs} s)}}", "required": "one: count只用来选分支，secs为剩余秒数。other: 同时显示count和secs。"}
+{"release": "main", "key": "search.status", "locale": "en", "usage": "结果页/筛选工具栏", "around": "No query | Saved filter", "source": "{state, select, saved {{name} is selected} other {No filters}}", "required": "saved: name为已选筛选器。other: 无名称。"}
+{"release": "main", "key": "search.chord", "locale": "en", "usage": "结果页/键位提示", "around": "Restore default sort", "source": "Reset {hotkey}", "required": {"other": ["hotkey"]}}
