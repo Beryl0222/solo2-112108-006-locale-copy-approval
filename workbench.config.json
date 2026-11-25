@@ -1,0 +1,34 @@
+{
+  "catalog": "desktop",
+  "locale": "zh-Hans",
+  "state_file": "state/workbench-state.json",
+  "output_dir": "dist",
+  "default_fallback_ladder": [
+    "exact-approved",
+    "usage-approved",
+    "approved-same-context",
+    "source"
+  ],
+  "releases": {
+    "main": {
+      "frozen": false,
+      "contract_revision": "working",
+      "fallback_ladder": [
+        "exact-approved",
+        "usage-approved",
+        "approved-same-context",
+        "source"
+      ]
+    },
+    "1.8": {
+      "frozen": true,
+      "contract_revision": "r3",
+      "fallback_ladder": [
+        "exact-approved",
+        "usage-approved",
+        "approved-same-context",
+        "source"
+      ]
+    }
+  }
+}
